@@ -19,10 +19,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
 
 ### :woman_technologist: About Me :
 I am a Bachelor 1 informatique studend from France.
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
