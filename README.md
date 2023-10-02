@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges"  align="center">
   <a href="https://www.youtube.com/channel/UCZ2DiFIMp7pD6Bn8q8Gg2iwL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
@@ -17,7 +17,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://www.89a.co.uk/post/51383918804/crash" width="600" height="300"/>
 </div>
 
 ---
@@ -34,7 +34,5 @@ I am a Bachelor 1 informatique studend from France.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CalvoTom&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvoTom)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CalvoTom&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
