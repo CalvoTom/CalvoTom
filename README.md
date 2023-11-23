@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/channel/UCZ2DiFIMp7pD6Bn8q8Gg2iwL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/Lit0pain">
+  <a href="[https://twitter.com/Lit0pai](https://twitter.com/ClvTom)n">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
