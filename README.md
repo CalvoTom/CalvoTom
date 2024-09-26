@@ -4,7 +4,7 @@
 
 <div id="badges"  align="center">
   <a href="www.linkedin.com/in/tom-calvo-b12200294">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxjhkiDOUNi6D-1VCzvWPSWpwt0BkrOrVtw&s" alt="Linkedin Badge"/>
+    <img src="https://logos-world.net/wp-content/uploads/2020/06/Linkedin-Logo-2003-700x394.png" alt="Linkedin Badge"/>
   </a>
 </div>
 
