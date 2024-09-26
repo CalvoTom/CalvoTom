@@ -3,11 +3,8 @@
 </div>
 
 <div id="badges"  align="center">
-  <a href="https://www.youtube.com/channel/UCZ2DiFIMp7pD6Bn8q8Gg2iw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/ClvTom">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="www.linkedin.com/in/tom-calvo-b12200294">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxjhkiDOUNi6D-1VCzvWPSWpwt0BkrOrVtw&s" alt="Linkedin Badge"/>
   </a>
 </div>
 
@@ -23,7 +20,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Bachelor 1 informatique studend from France.
+I am a Bachelor 2 informatique student from France.
 
 ---
 
