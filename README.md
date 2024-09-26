@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges"  align="center">
-  <a href="www.linkedin.com/in/tom-calvo-b12200294">
+  <a href="https://www.linkedin.com/in/tom-calvo-b12200294/">
     <img style="width: 100px; heigth: 100%" src="https://logos-world.net/wp-content/uploads/2020/06/Linkedin-Logo-2003-700x394.png" alt="Linkedin Badge"/>
   </a>
 </div>
