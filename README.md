@@ -16,4 +16,4 @@
 ---
 
 ### :woman_technologist: About Me :
-A former competitive skier, now a lifeguard, I'm mainly involved in computer science studies at Ynov Campus in France.
+A former competitive skier, now a lifeguard, I'm mainly involved in computer science studies at Ynov Campus in France. I'm currently looking for an Internship Apprenticeship in Data Science
