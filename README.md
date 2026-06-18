@@ -66,5 +66,6 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CalvoTom&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CalvoTom&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=CalvoTom&theme=tokyonight" alt="GitHub Streak"/>
 </div>
