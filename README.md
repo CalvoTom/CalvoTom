@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="recent_games.png" width="480"/>
+  <img src="image1.jpeg" width="480"/>
 </div>
 
 <div align="center">
